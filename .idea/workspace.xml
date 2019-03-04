@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ac86662-4b30-4022-8a80-ac63b3bfec59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/HandGestureRecognition" beforeDir="false" />
-    </list>
+    <list default="true" id="6ac86662-4b30-4022-8a80-ac63b3bfec59" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/HandGestureRecognition.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="385">
-              <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
+              <caret line="166" selection-start-line="166" selection-end-line="166" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -285,12 +283,12 @@
       <updated>1551266396034</updated>
       <workItem from="1551266403392" duration="18843000" />
       <workItem from="1551628822942" duration="8090000" />
-      <workItem from="1551691956916" duration="2754000" />
+      <workItem from="1551691956916" duration="3270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29687000" />
+    <option name="totallyTimeSpent" value="30203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="39" width="1400" height="779" extended-state="0" />
@@ -340,7 +338,7 @@
     <entry file="file://$PROJECT_DIR$/HandGestureRecognition.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
-          <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
