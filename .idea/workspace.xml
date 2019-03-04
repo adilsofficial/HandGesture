@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ac86662-4b30-4022-8a80-ac63b3bfec59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HandGestureRecognition" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HandGestureRecognition.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+            <state relative-caret-position="385">
+              <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -81,6 +80,7 @@
             <value>
               <list>
                 <branch-info repo="$PROJECT_DIR$/HandGestureRecognition" source="origin/AdilHussain" />
+                <branch-info source="origin/AdilHussain" />
               </list>
             </value>
           </entry>
@@ -101,6 +101,7 @@
             <value>
               <list>
                 <branch-info repo="$PROJECT_DIR$/HandGestureRecognition" source="origin/master" />
+                <branch-info source="origin/master" />
               </list>
             </value>
           </entry>
@@ -138,16 +139,6 @@
             <path>
               <item name="HandGestureRecognition" type="b2602c69:ProjectViewProjectNode" />
               <item name="HandGestureRecognition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HandGestureRecognition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HandGestureRecognition" type="462c0819:PsiDirectoryNode" />
-              <item name="temp_images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HandGestureRecognition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HandGestureRecognition" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,12 +285,12 @@
       <updated>1551266396034</updated>
       <workItem from="1551266403392" duration="18843000" />
       <workItem from="1551628822942" duration="8090000" />
-      <workItem from="1551691956916" duration="1414000" />
+      <workItem from="1551691956916" duration="2754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28347000" />
+    <option name="totallyTimeSpent" value="29687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="39" width="1400" height="779" extended-state="0" />
@@ -317,9 +308,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014728" side_tool="true" visible="true" weight="0.32751092" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5022091" side_tool="true" visible="true" weight="0.32751092" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.32885906" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.49852726" visible="true" weight="0.32751092" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.49779087" visible="true" weight="0.32751092" />
       <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.4992636" weight="0.32751092" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -348,8 +339,8 @@
     <entry file="file://$PROJECT_DIR$/test3.py" />
     <entry file="file://$PROJECT_DIR$/HandGestureRecognition.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        <state relative-caret-position="385">
+          <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
