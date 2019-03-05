@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6ac86662-4b30-4022-8a80-ac63b3bfec59" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HandGestureRecognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandGestureRecognition.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,21 +14,26 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Testing$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1551351280967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Testing$test.coverage" NAME="test Coverage Results" MODIFIED="1551691344727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/HandGestureRecognition$HandGestureRecognition.coverage" NAME="HandGestureRecognition Coverage Results" MODIFIED="1551692047712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HandGestureRecognition$HandGestureRecognition.coverage" NAME="HandGestureRecognition Coverage Results" MODIFIED="1551790060609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Testing$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1551354315573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HandGestureRecognition.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="166" selection-start-line="166" selection-end-line="166" />
+            <state relative-caret-position="184">
+              <caret line="155" column="37" selection-start-line="155" selection-start-column="37" selection-end-line="155" selection-end-column="37" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/temp_images/victemp.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -122,8 +128,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="12" />
-    <option name="y" value="39" />
+    <option name="x" value="65" />
+    <option name="y" value="28" />
     <option name="width" value="1400" />
     <option name="height" value="779" />
   </component>
@@ -139,6 +145,11 @@
             <path>
               <item name="HandGestureRecognition" type="b2602c69:ProjectViewProjectNode" />
               <item name="HandGestureRecognition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HandGestureRecognition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HandGestureRecognition" type="462c0819:PsiDirectoryNode" />
+              <item name="temp_images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -285,22 +296,24 @@
       <updated>1551266396034</updated>
       <workItem from="1551266403392" duration="18843000" />
       <workItem from="1551628822942" duration="8090000" />
-      <workItem from="1551691956916" duration="5017000" />
+      <workItem from="1551691956916" duration="5419000" />
+      <workItem from="1551788103054" duration="2572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31950000" />
+    <option name="totallyTimeSpent" value="34924000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="39" width="1400" height="779" extended-state="0" />
+    <frame x="65" y="28" width="1400" height="779" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.2533137" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.2569956" />
       <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.2496318" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" weight="0.356623" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49852726" visible="true" weight="0.356623" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -308,9 +321,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50441825" side_tool="true" visible="true" weight="0.32751092" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014728" side_tool="true" visible="true" weight="0.356623" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.32885906" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.49558175" visible="true" weight="0.32751092" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49484536" weight="0.32751092" />
       <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.4992636" weight="0.32751092" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -337,10 +350,14 @@
     <entry file="file://$PROJECT_DIR$/temp_images/victmp.png" />
     <entry file="file://$PROJECT_DIR$/test1.py" />
     <entry file="file://$PROJECT_DIR$/test3.py" />
+    <entry file="file://$PROJECT_DIR$/git-credential-osxkeychain" />
+    <entry file="file://$PROJECT_DIR$/temp_images/victemp.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/HandGestureRecognition.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        <state relative-caret-position="184">
+          <caret line="155" column="37" selection-start-line="155" selection-start-column="37" selection-end-line="155" selection-end-column="37" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
